@@ -19,10 +19,10 @@ Sometimes, normal databases become slow or hard to manage when your app grows. N
 
 ## Types of NoSQL Databases
 
-1. **Document** – stores data like JSON files (looks like text with keys and values)
+1. **Document** – stores data like JSON files 
 2. **Key-Value** – simple, fast storage with a key and value
 3. **Column** – stores data in columns instead of rows
-4. **Graph** – stores data with connections (good for social networks)
+4. **Graph** – stores data with connections 
 
 ---
 
